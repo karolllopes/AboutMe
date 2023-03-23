@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">karolinna</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Meu nome é Karol Lessa. Tenho 16 anos.
+        \n Estudo na Etec e curso desenvolvimento de sistemas.
+        \n Gosto de viajar para lugares simples: sitio, por exemplo.
+        \n Moro em São Paulo a 4 anos, nasci e vivi a maior parte da minha vida na Bahia, em uma cidade de 20mil habitantes.
+        \n Frequento a igreja desde o ano passado.
+        \n Meu gosto musical é de um senhor de 70 anos. Gosto de ouvir Milionario José rico (kk).
+        \n É isso, um beijo da Anitta.</string>
+</resources>
